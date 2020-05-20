@@ -1,2 +1,2 @@
-# qlicky.github.io
-Qlicky Fontend
+# sameeraakbar.github.io
+SameeraAkbar Fontend
